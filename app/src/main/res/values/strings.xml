@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodinTestApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="please_login_to_your_account_to_continue_with_ltg">Please login to your account to continue with \n LTG</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+</resources>
